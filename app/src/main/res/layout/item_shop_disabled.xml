@@ -27,7 +27,7 @@
             android:textColor="@color/white"
             android:textSize="16sp"
             android:textStyle="bold"
-            android:text="Bread"
+            tools:text="Bread"
             />
 
         <TextView
@@ -37,7 +37,7 @@
             android:textColor="@color/white"
             android:textSize="16sp"
             android:textStyle="bold"
-            android:text="1"
+            tools:text="1"
             />
 
     </LinearLayout>
